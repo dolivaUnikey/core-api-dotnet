@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Connected";
+}
+<h2>@ViewBag.User.Name</h2>
+<h3>@ViewBag.User.Id</h3>
+
+Locks:
+<ul>
+    @foreach (var user_lock in ViewBag.Locks)
+    {
+        <li>@user_lock.Name - @user_lock.Id - @Html.ActionLink("Lock", "Lock", new { id = user_lock.Id }) - @Html.ActionLink("Unlock", "Unlock", new { id = user_lock.Id })</li>
+    }
+</ul>

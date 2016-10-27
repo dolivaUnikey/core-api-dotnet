@@ -1,0 +1,8 @@
+C:\Users\JoeyLorich\Documents\Visual Studio 2015\Projects\UnikeyAPI\UniKey\bin\Release\Unikey.dll
+C:\Users\JoeyLorich\Documents\Visual Studio 2015\Projects\UnikeyAPI\UniKey\bin\Release\Unikey.pdb
+C:\Users\JoeyLorich\Documents\Visual Studio 2015\Projects\UnikeyAPI\UniKey\bin\Release\Newtonsoft.Json.dll
+C:\Users\JoeyLorich\Documents\Visual Studio 2015\Projects\UnikeyAPI\UniKey\bin\Release\RestSharp.dll
+C:\Users\JoeyLorich\Documents\Visual Studio 2015\Projects\UnikeyAPI\UniKey\bin\Release\Newtonsoft.Json.xml
+C:\Users\JoeyLorich\Documents\Visual Studio 2015\Projects\UnikeyAPI\UniKey\bin\Release\RestSharp.xml
+C:\Users\JoeyLorich\Documents\Visual Studio 2015\Projects\UnikeyAPI\UniKey\obj\Release\Unikey.dll
+C:\Users\JoeyLorich\Documents\Visual Studio 2015\Projects\UnikeyAPI\UniKey\obj\Release\Unikey.pdb
