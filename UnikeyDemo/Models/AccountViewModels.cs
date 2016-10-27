@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿// Copyright 2012-2016 Unikey Technologies, Inc. All Rights Reserved.
+// 
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace UnikeyDemo.Models

@@ -1,4 +1,6 @@
-﻿using System.Reflection;
+﻿// Copyright 2012-2016 Unikey Technologies, Inc. All Rights Reserved.
+// 
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 

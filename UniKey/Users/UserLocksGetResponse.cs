@@ -1,12 +1,10 @@
-﻿using System;
+﻿// Copyright 2012-2016 Unikey Technologies, Inc. All Rights Reserved.
+// 
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Newtonsoft.Json;
-using UnikeyAPI.Locks;
+using Unikey.Locks;
 
-namespace UnikeyAPI.Users
+namespace Unikey.Users
 {
     public class UserLocksGetResponse
     {

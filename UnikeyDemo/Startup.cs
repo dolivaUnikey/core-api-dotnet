@@ -1,4 +1,6 @@
-﻿using Microsoft.Owin;
+﻿// Copyright 2012-2016 Unikey Technologies, Inc. All Rights Reserved.
+// 
+using Microsoft.Owin;
 using Owin;
 
 [assembly: OwinStartupAttribute(typeof(UnikeyDemo.Startup))]

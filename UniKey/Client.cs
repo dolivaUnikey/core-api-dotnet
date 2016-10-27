@@ -1,13 +1,13 @@
-﻿using System;
-using System.Dynamic;
-using System.Security.Policy;
-using GcmSharp.Serialization;
+﻿// Copyright 2012-2016 Unikey Technologies, Inc. All Rights Reserved.
+// 
+using System;
 using Newtonsoft.Json;
 using RestSharp;
-using UnikeyAPI.Locks;
-using UnikeyAPI.Users;
+using Unikey.Locks;
+using Unikey.OAuthToken;
+using Unikey.Users;
 
-namespace UnikeyAPI
+namespace Unikey
 {
     public class Client
     {

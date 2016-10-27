@@ -1,12 +1,9 @@
-﻿// Copyright (c) Philipp Wagner. All rights reserved.
-// Licensed under the MIT license. See LICENSE file in the project root for full license information.
-
-using Newtonsoft.Json;
-using RestSharp.Serializers;
+﻿// Copyright 2012-2016 Unikey Technologies, Inc. All Rights Reserved.
+// 
 using System.IO;
-using RestSharp.Deserializers;
+using Newtonsoft.Json;
 
-namespace GcmSharp.Serialization
+namespace Unikey
 {
     public class NewtonsoftJsonSerializer : IJsonSerializer
     {

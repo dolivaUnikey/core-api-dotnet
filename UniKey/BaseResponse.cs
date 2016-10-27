@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// Copyright 2012-2016 Unikey Technologies, Inc. All Rights Reserved.
+// 
+using System;
 
-namespace UnikeyAPI
+namespace Unikey
 {
     [Serializable]
     public class BaseResponse

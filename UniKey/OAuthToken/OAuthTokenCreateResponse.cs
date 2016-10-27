@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Dynamic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// Copyright 2012-2016 Unikey Technologies, Inc. All Rights Reserved.
+// 
 using Newtonsoft.Json;
 
-namespace UnikeyAPI
+namespace Unikey.OAuthToken
 {
     public class OAuthTokenCreateResponse : BaseRequest
     {
